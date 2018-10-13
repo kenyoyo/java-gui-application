@@ -1,0 +1,9 @@
+This application is a kind of business management software
+all requirements of this application made for support business process.
+
+Software development detail
+Application type : Graphical user interface
+Database type: Relational-Database
+RDBMS using: mysql
+Programming language using : Java programming language
+Others: jdbc(Java api for database connection), swing(Java api provide for GUI java programs)
